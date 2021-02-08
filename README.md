@@ -4,6 +4,11 @@ This is an easy-to-maintain REST client API for eToro.
 It uses the OpenAPI specifications generated from the eToro developer website and generates generic wrappers to use them.
 Any update to the API from the eToro side can be reflected here by updating the api from the provided OpenAPI descriptions provided by eToro.
 
+
+  To use this API, you need to have developer access keys. Check [eToro API Portal](https://api-portal.etoro.com/) for more details on how to request a subscription.
+
+
+
 I already generated the eToro APIs for the languages:
 
 - [Python](/python/)
